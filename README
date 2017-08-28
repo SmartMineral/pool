@@ -1,4 +1,4 @@
-Bets are distributed over 100 blocks and aggregated between miners
+//Bets are distributed over 100 blocks and aggregated between miners
 Rewards are paid out on subsequent bets or by using the redeem function
 
 The pool needs to be triggered externally by a vps script
